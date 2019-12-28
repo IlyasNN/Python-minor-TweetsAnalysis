@@ -1,0 +1,22 @@
+Rule1 - sum of words' values
+
+	Positive - 2611 - 26.11%
+	Neutral - 5130 - 51.30%
+	Negative - 2259 - 22.59%
+
+Rule2 - sum of words' values
+
+	Positive - 81 - 0.81%
+	Neutral - 9860 - 98.60%
+	Negative - 59 - 0.59%
+
+Rule3 - by the number of bad words
+
+	Positive and neutral- 8854 - 88.54%
+	Negative - 1146 - 11.46%
+
+Rule4 - more then one word with this order: pos, neg , neu
+
+	Positive - 3733 - 37.33%
+	Neutral - 5207 - 52.07%
+	Negative - 1060 - 10.60%

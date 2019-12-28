@@ -1,0 +1,4 @@
+#!/Users/ilasolovev/Desktop/University/Python/Laba2/venv/bin/python
+import sys
+from pymorphy2 import cli
+sys.exit(cli.main())
